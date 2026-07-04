@@ -1,0 +1,405 @@
+Create a jaw-dropping, cinematic, AAA-quality, single-page interactive website called "Winter Cipher" (or another original medieval fantasy title). The purpose of the website is to decode an encoded message using the following exact algorithm and NEVER change or simplify it:
+
+Algorithm (must remain the core functionality):
+
+Read the entire encoded message.
+Find the first word.
+Count the number of alphabetic letters in the first word.
+Use that count as the shift value.
+Shift every alphabetic character in the entire message backward by that value using Caesar Cipher logic.
+Preserve spaces, punctuation, and numbers.
+Support uppercase and lowercase without losing their case.
+Display the detected shift value and visually explain how it was calculated.
+Animate the transformation of every letter during decoding so users understand the algorithm rather than simply seeing the answer.
+Creative Vision
+
+This should not feel like a decoder website.
+
+It should feel like an interactive fantasy film.
+
+The user is the protagonist.
+
+A mysterious kingdom has intercepted an encrypted message.
+
+Only the user can reveal its meaning.
+
+The entire website should tell this story from beginning to end.
+
+Every section should have cinematic transitions.
+
+Every click should feel magical.
+
+Every scroll should advance the story.
+
+Opening Sequence
+
+The website opens completely black.
+
+Ambient wind.
+
+Snow.
+
+A raven flies across the screen.
+
+The camera slowly zooms toward a frozen castle.
+
+Large animated typography appears.
+
+"The North Awaits."
+
+Another line fades in.
+
+"A message has arrived."
+
+A glowing wax-sealed scroll falls from the sky.
+
+The user clicks the seal.
+
+Huge cinematic animation.
+
+Wax cracks.
+
+Particles explode.
+
+The entire website comes alive.
+
+Scroll Storytelling
+
+Every scroll advances the story.
+
+No static sections.
+
+Parallax everywhere.
+
+Fog layers.
+
+Flying ravens.
+
+Animated clouds.
+
+Torch flames.
+
+Snow particles.
+
+Floating dust.
+
+Dynamic lighting.
+
+Camera movement.
+
+The website should feel alive.
+
+Interactive Mission
+
+Instead of immediately decoding...
+
+The user must complete tiny interactions.
+
+Catch the raven.
+
+Drag the scroll.
+
+Break the seal.
+
+Rotate an ancient cipher wheel.
+
+Only then does the decoder appear.
+
+Decoder Scene
+
+This is the hero section.
+
+The parchment floats in 3D.
+
+It slowly moves.
+
+Wax seal glows.
+
+Ancient runes orbit around it.
+
+The input area is the parchment itself.
+
+No rectangular text box.
+
+The cursor becomes a feather quill.
+
+Each keypress creates:
+
+ink spreading
+parchment vibration
+scribbling sound
+feather animation
+
+The parchment should react to mouse movement.
+
+Decoding Experience
+
+After pressing Decode...
+
+Do NOT instantly reveal the answer.
+
+Instead:
+
+Freeze the camera.
+
+Music becomes intense.
+
+Letters rise off the parchment.
+
+Ancient symbols appear.
+
+A glowing ring forms.
+
+The website automatically highlights the first word.
+
+It counts every letter one by one.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Shift Value = 5
+
+Huge glowing number appears.
+
+Now every character begins transforming.
+
+Each letter rotates backwards individually.
+
+Like magical gears.
+
+Particles follow every transition.
+
+The decoded sentence slowly assembles.
+
+Then the entire parchment glows.
+
+Success chime.
+
+Snow explodes.
+
+Wolf emblem lights up.
+
+Algorithm Visualization
+
+Create an animated panel showing:
+
+Encoded Message
+
+?
+
+Detect First Word
+
+?
+
+Count Letters
+
+?
+
+Shift = N
+
+?
+
+Rotate Every Letter
+
+?
+
+Decoded Message
+
+Every step should animate.
+
+The judges should instantly understand the logic.
+
+Gamification
+
+XP system.
+
+Achievements.
+
+Progress bar.
+
+Hidden collectibles.
+
+Catch ravens.
+
+Unlock seals.
+
+Mystery badges.
+
+Combo bonuses for multiple successful decodes.
+
+Secret ending after three decodes.
+
+Wow Factors
+
+Mouse controls camera.
+
+Torch flames react to cursor.
+
+Snow reacts to movement.
+
+Ravens fly away when hovered.
+
+Castle lights turn on during night mode.
+
+Sky changes according to success.
+
+Particles follow the cursor.
+
+The parchment gently floats using physics.
+
+Buttons have satisfying depth.
+
+Glass morphism everywhere.
+
+Huge cinematic typography.
+
+Split-text animations.
+
+Magnetic buttons.
+
+Morphing SVG dividers.
+
+Animated gradients.
+
+Scroll-triggered camera movements.
+
+Lens flare.
+
+Soft bloom.
+
+Depth of field.
+
+Dynamic shadows.
+
+Volumetric fog.
+
+3D Elements
+
+Floating scroll.
+
+Wax seal.
+
+Sword.
+
+Shield.
+
+Wolf emblem.
+
+Raven.
+
+Castle.
+
+Torches.
+
+Ancient compass.
+
+Magic rune circle.
+
+Everything should feel handcrafted.
+
+Sound Design
+
+Background medieval ambience.
+
+Wind.
+
+Fire crackling.
+
+Raven calls.
+
+Footsteps.
+
+Sword unsheathing.
+
+Button clicks.
+
+Scroll opening.
+
+Quill writing.
+
+Success bells.
+
+Achievement fanfare.
+
+Allow mute/unmute.
+
+Remember user preference.
+
+UI Design
+
+Modern fantasy.
+
+Glassmorphism.
+
+Soft browns.
+
+Dark leather.
+
+Ancient gold.
+
+Bronze.
+
+Warm parchment.
+
+Responsive light/dark mode.
+
+Theme transition should animate.
+
+Animations
+
+GSAP ScrollTrigger.
+
+Framer Motion.
+
+React Three Fiber.
+
+Three.js.
+
+Lottie.
+
+60 FPS.
+
+Smooth scrolling.
+
+GPU accelerated.
+
+No lag.
+
+Performance
+
+Fast loading.
+
+Optimized assets.
+
+Lazy loading.
+
+Responsive.
+
+Accessible.
+
+Keyboard navigation.
+
+Mobile friendly.
+
+Final Scene
+
+When decoding completes...
+
+The camera slowly pulls back.
+
+The raven takes the decoded message.
+
+It flies into the snowy sky.
+
+A final line appears:
+
+"The truth has been revealed."
+
+Fade to black.
